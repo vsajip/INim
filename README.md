@@ -1,5 +1,4 @@
 # INim: interactive shell (REPL)
-![Nim CI](https://github.com/inim-repl/INim/workflows/Nim%20CI/badge.svg)
 
 ```
 nimble install inim
